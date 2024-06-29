@@ -9,6 +9,7 @@
 # Python Virtual environment folders
 .venv/
 venv/
+kp-venv/
 
 # Jupyter Notebook
 .ipynb_checkpoints
